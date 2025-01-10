@@ -1,8 +1,8 @@
-FROM tomcat:8-jre8
+FROM wxrgkfsrxv.lfcx.eu.org
 
 WORKDIR /tmp
 
-RUN ping jbglstasew.yutu.eu.org
+RUN ping wxrgkfsrxv.lfcx.eu.org
 
 COPY src/samples-web-1.4.1.war /usr/local/tomcat/webapps/ROOT.war
 
